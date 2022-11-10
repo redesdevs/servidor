@@ -1,0 +1,64 @@
+{
+  "roles_usuario": [
+    {
+      "id": 1,
+      "rol": "profesor"
+    },
+    {
+      "id": 2,
+      "rol": "estudiante"
+    }
+  ],
+
+  "usuarios": [
+    {
+      "id": 1,
+      "username": "anfelole",
+      "password": "12345",
+      "id_rol_usuario": 1
+    },
+    {
+      "id": 2,
+      "username": "elbanis26",
+      "password": "54321",
+      "id_rol_usuario": 2
+    },
+    {
+      "id": 3,
+      "username": "yisusvega74",
+      "password": "qwerty123",
+      "id_rol_usuario": 2
+    }
+  ],
+
+  "profesores": [
+    {
+      "id": 1,
+      "nombre": "Andres",
+      "apellido": "Lopez",
+      "fecha_cumpleaños": "11/08/2001",
+      "materia": "matematicas",
+      "id_usuario": 1
+    }
+  ],
+
+  "estudiantes": [
+    {
+      "id": 1,
+      "nombre": "Elbanis",
+      "apellido": "Sarmiento",
+      "fecha_cumpleaños": "16/03/2003",
+      "grade": 10,
+      "id_usuario": 2
+    },
+
+    {
+      "id": 2,
+      "nombre": "Jesus",
+      "apellido": "Valdelamar",
+      "fecha_cumpleaños": "07/06/1999",
+      "grade": 8,
+      "id_usuario": 3
+    }
+  ]
+}
