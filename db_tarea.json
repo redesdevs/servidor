@@ -28,6 +28,13 @@
       "username": "yisusvega74",
       "password": "qwerty123",
       "id_rol": 2
+    },
+
+    {
+      "id": 4,
+      "username": "sergiop",
+      "password": "987654",
+      "id_rol": 1
     }
   ],
 
@@ -39,7 +46,17 @@
       "fecha_cumpleaños": "11/08/2001",
       "materia": "matematicas",
       "id_usuario": 1
+    },
+
+    {
+      "id": 2,
+      "nombre": "Sergio",
+      "apellido": "Pineda",
+      "fecha_cumpleaños": "11/08/2001",
+      "materia": "Química",
+      "id_usuario": 4
     }
+    
   ],
 
   "estudiantes": [
