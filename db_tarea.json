@@ -9,7 +9,6 @@
       "rol": "estudiante"
     }
   ],
-
   "usuarios": [
     {
       "id": 1,
@@ -29,15 +28,19 @@
       "password": "qwerty123",
       "id_rol": 2
     },
-
     {
       "id": 4,
       "username": "sergiop",
       "password": "987654",
       "id_rol": 1
+    },
+    {
+      "id": 5,
+      "username": "bryanfelipe",
+      "password": "felipe02",
+      "id_rol": 2
     }
   ],
-
   "profesores": [
     {
       "id": 1,
@@ -47,7 +50,6 @@
       "materia": "matematicas",
       "id_usuario": 1
     },
-
     {
       "id": 2,
       "nombre": "Sergio",
@@ -56,9 +58,7 @@
       "materia": "Química",
       "id_usuario": 4
     }
-    
   ],
-
   "estudiantes": [
     {
       "id": 1,
@@ -68,7 +68,6 @@
       "grade": 10,
       "id_usuario": 2
     },
-
     {
       "id": 2,
       "nombre": "Jesus",
@@ -76,6 +75,14 @@
       "fecha_cumpleaños": "07/06/1999",
       "grade": 8,
       "id_usuario": 3
+    },
+    {
+      "id": 3,
+      "nombre": "Bryan",
+      "apellido": "Escobar",
+      "fecha_cumpleaños": "04/11/2000",
+      "grade": 12,
+      "id_usuario": 5
     }
   ]
 }
