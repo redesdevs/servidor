@@ -1,5 +1,5 @@
 {
-  "roles_usuario": [
+  "roles": [
     {
       "id": 1,
       "rol": "profesor"
@@ -15,19 +15,19 @@
       "id": 1,
       "username": "anfelole",
       "password": "12345",
-      "id_rol_usuario": 1
+      "id_rol": 1
     },
     {
       "id": 2,
       "username": "elbanis26",
       "password": "54321",
-      "id_rol_usuario": 2
+      "id_rol": 2
     },
     {
       "id": 3,
       "username": "yisusvega74",
       "password": "qwerty123",
-      "id_rol_usuario": 2
+      "id_rol": 2
     }
   ],
 
